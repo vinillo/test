@@ -1,10 +1,15 @@
 {
-    "name": "vinillo/test",
-    "authors": [
-        {
-            "name": "Vin",
-            "email": "info@webkleur.om"
-        }
-    ],
-    "require": {}
+  "name": "vinillo/test",
+  "authors": [
+    {
+      "name": "Vin",
+      "email": "info@webkleur.com"
+    }
+  ],
+  "require": {
+    "vinillo/test": "dev-master"
+  },
+  "bin": [
+    "src/idc"
+  ]
 }
