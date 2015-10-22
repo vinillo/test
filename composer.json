@@ -1,0 +1,10 @@
+{
+    "name": "vinillo/test",
+    "authors": [
+        {
+            "name": "Vin",
+            "email": "info@webkleur.om"
+        }
+    ],
+    "require": {}
+}
