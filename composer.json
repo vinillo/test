@@ -10,6 +10,6 @@
     "vinillo/test": "dev-master"
   },
   "bin": [
-    "src/idc"
+    "src/idc.php"
   ]
 }
