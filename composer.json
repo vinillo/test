@@ -8,8 +8,5 @@
   ],
   "require": {
     "vinillo/test": "dev-master"
-  },
-  "bin": [
-    "src/idc.php"
-  ]
+  }
 }
